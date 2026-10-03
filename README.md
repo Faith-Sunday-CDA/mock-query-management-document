@@ -1,6 +1,8 @@
 ## Mock Clinical Data Query Management Document
 A simulated clinical data query-management workflow demonstrating how data discrepancies can be documented, tracked, prioritised, and monitored during clinical data review.
 
+![query management](query management.png)
+
 ## Project at a Glance
 Project Type: Independent clinical data portfolio project
 Role: Clinical Data Analyst
@@ -107,27 +109,11 @@ Priority does not represent a clinical or regulatory determination. It is used w
 The tracker includes a Days Open concept to demonstrate how long unresolved queries have remained outstanding.
 Query aging can help data teams identify issues that may require follow-up and monitor the overall query-resolution process.
 
-# Portfolio Evidence
-
-Selected screenshots from the query-management document can be displayed below.
-
-Query Management Tracker
-
-"Query management tracker" (query-management-tracker.jpg)
-
-Query Status and Tracking
-
-"Query status tracking" (query-status-tracking.jpg)
-
-Query Aging and Escalation
-
-"Query aging and escalation" (query-aging-escalation.jpg)
 
 Full Project Document
-
 The complete mock query-management document is available below.
 
-"View the Full Query Management Document" (YOUR_DOCUMENT_LINK_HERE)
+"View the Full Query Management Document" (NCT06890338_Query_Management_Report.pdf)
 
 ## Real-World Relevance
 Query management is an important part of clinical data review.
