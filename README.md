@@ -55,15 +55,15 @@ Selected screenshots from the query-management workbook are displayed below.
 
 ### Query Tracker Overview
 
-![Query tracker overview](query-tracker-overview.jpg)
+![Query tracker overview](query-tracker-overview.png)
 
 ### Query Summary Dashboard
 
-![Query summary dashboard](query-summary-dashboard.jpg)
+![Query summary dashboard](query-summary-dashboard.png)
 
 ### Query Reference Lists
 
-![Query reference lists](query-reference-lists.jpg)
+![Query reference lists](query-reference-lists.png)
 
 ## Query Fields
 The mock tracker includes fields such as:
@@ -157,7 +157,7 @@ Future versions could include:
 
 The complete mock query-management document is available here:
 
-[View the Full Query Management PDF]https://drive.google.com/drive/folders/1XNhP8kfG60j1htBYbtPfgavfGsfCEWgZ)
+[View the Full Query Management PDF](NCT06890338_Query_Management_Report-1.pdf)
 
 ## Supporting Project Files
 
