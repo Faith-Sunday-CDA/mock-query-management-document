@@ -1,8 +1,6 @@
 ## Mock Clinical Data Query Management Document
 A simulated clinical data query-management workflow demonstrating how data discrepancies can be documented, tracked, prioritised, and monitored during clinical data review.
 
-![query management](query management.png)
-
 ## Project at a Glance
 Project Type: Independent clinical data portfolio project
 Role: Clinical Data Analyst
@@ -52,15 +50,20 @@ Queries requiring additional attention could be identified using priority and st
 
 
 ## Portfolio Evidence
+
 Selected screenshots from the query-management workbook are displayed below.
 
-### Query Tracker and Summary
+### Query Tracker Overview
 
-![Query tracker and summary](query-tracker-summary.jpg)
+![Query tracker overview](query-tracker-overview.jpg)
 
-### Reference Sheet
+### Query Summary Dashboard
 
-![Reference sheet](reference-sheet.jpg)
+![Query summary dashboard](query-summary-dashboard.jpg)
+
+### Query Reference Lists
+
+![Query reference lists](query-reference-lists.jpg)
 
 ## Query Fields
 The mock tracker includes fields such as:
@@ -110,10 +113,6 @@ The tracker includes a Days Open concept to demonstrate how long unresolved quer
 Query aging can help data teams identify issues that may require follow-up and monitor the overall query-resolution process.
 
 
-Full Project Document
-The complete mock query-management document is available below.
-
-"View the Full Query Management Document" (NCT06890338_Query_Management_Report.pdf)
 
 ## Real-World Relevance
 Query management is an important part of clinical data review.
@@ -153,7 +152,22 @@ Future versions could include:
 - Integration with clinical data-quality dashboards
 - Audit-trail functionality
 
+
+  ## Full Project Document
+
+The complete mock query-management document is available here:
+
+[View the Full Query Management PDF]https://drive.google.com/drive/folders/1XNhP8kfG60j1htBYbtPfgavfGsfCEWgZ)
+
+## Supporting Project Files
+
+The supporting dataset and project files are available in the project Drive folder:
+
+[View the Full Project Drive Folder](https://drive.google.com/drive/folders/1XNhP8kfG60j1htBYbtPfgavfGsfCEWgZ)
+
 ## Project Outcome
 This project demonstrates my ability to translate clinical data-quality issues into structured queries and manage those issues through a documented workflow.
 
 It also demonstrates how clinical research knowledge can be combined with data-quality thinking and operational documentation to support clinical data-management activities.
+
+
