@@ -48,6 +48,18 @@ The tracker was designed to monitor query status and how long issues remained op
 # Escalation
 Queries requiring additional attention could be identified using priority and status information.
 
+
+## Portfolio Evidence
+Selected screenshots from the query-management workbook are displayed below.
+
+### Query Tracker and Summary
+
+![Query tracker and summary](query-tracker-summary.jpg)
+
+### Reference Sheet
+
+![Reference sheet](reference-sheet.jpg)
+
 ## Query Fields
 The mock tracker includes fields such as:
 - Query ID
