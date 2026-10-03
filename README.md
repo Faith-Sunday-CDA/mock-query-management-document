@@ -34,7 +34,7 @@ The project was designed to simulate the type of structured documentation that c
 ## Query Management Workflow
 The workflow follows:
 
-# Identify discrepancy → Document query → Classify issue → Assign priority → Track status → Follow up → Resolve or escalate
+Identify discrepancy → Document query → Classify issue → Assign priority → Track status → Follow up → Resolve or escalate
 
 # Query Identification
 Potential discrepancies were identified from the clinical trial context and translated into realistic mock data queries.
@@ -77,7 +77,7 @@ The simulated queries cover examples of clinical data issues such as:
 # Query Status
 Queries were tracked through statuses such as:
 
-# Open → Awaiting Response → Resolved
+Open → Awaiting Response → Resolved
 This provides a simple view of outstanding versus completed data-cleaning work.
 
 # Priority and Escalation
@@ -123,7 +123,7 @@ Query management is an important part of clinical data review.
 A structured query process helps teams document discrepancies consistently, communicate questions to the appropriate study personnel, monitor outstanding issues, and support timely data cleaning.
 This project demonstrates practical understanding of:
 
-# Data discrepancy → Query → Follow-up → Resolution → Data quality
+ Data discrepancy → Query → Follow-up → Resolution → Data quality
 
 ## Skills Demonstrated
 - Clinical data review
